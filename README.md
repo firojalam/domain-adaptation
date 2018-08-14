@@ -1,5 +1,9 @@
 # Domain Adaptation with Adversarial Training and Graph Embeddings
 
+
+Please be patient, we are slowly uploading code and preparing readme file. 
+
+
 ## Introduction
 
 This is forked form the implementation of [Planetoid](https://github.com/kimiyoung/planetoid), a graph-based semi-supervised learning method proposed in the following paper:
@@ -15,7 +19,7 @@ We will make the code publicly available soon. Please be patient.
 - gensim
 - lasagne
 - keras with tensorflow backend
-- Please download Word2Vec model. 
+- Please download Word2Vec model.
 
 
 ## Data
