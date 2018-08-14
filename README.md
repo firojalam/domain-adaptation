@@ -28,7 +28,7 @@ We will make the code publicly available soon. Please be patient.
 
 More details of this model can be found on [github](https://github.com/firojalam/crisis-embedding-models)
 
-Please download the model from [Crisis Word2Vec](http://crisisnlp.qcri.org/crisis_w2v_model/crisis_word_vector.tar.gz).
+Please download the model from [CrisisNLP](http://crisisnlp.qcri.org/crisis_w2v_model/crisis_word_vector.tar.gz).
 
 ## Models
 
